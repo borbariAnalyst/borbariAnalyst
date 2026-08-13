@@ -14,7 +14,6 @@
 <img width="50" height="50" alt="pythonicon" src="https://github.com/user-attachments/assets/b6c9dffb-8473-4d43-afbe-d6f21ff8fc77" />
 <img width="50" height="50" alt="Azure" src="https://github.com/user-attachments/assets/fabdaed8-568e-4744-8825-a5f2ac3afd48" />
 
-Excel, Tableau, Power BI, SQL, Python, Azure
 ---
 #### 📗 Excel
 Advanced data analysis using formulas, pivot tables, Power Query, and interactive dashboards to convert raw datasets into clear, meaningful insights.
