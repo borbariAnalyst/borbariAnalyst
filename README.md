@@ -1,7 +1,9 @@
-## 👋 Hi, I'm BorBari 
+# 👋 Hi, I'm BorBari 
 
-###### 💡Data Analyst committed to transforming raw datasets into meaningful insights that drive smarter decisions. 
-###### 📊 Experienced in building clear, insightful visuals, performing end‑to‑end data analysis, and developing solutions using modern cloud technologies.
+💡Data Analyst committed to transforming raw datasets into meaningful insights that drive smarter decisions.    
+📊 Experienced in building clear, insightful visuals, performing end‑to‑end data analysis, and developing solutions using modern cloud technologies.
+
+
 ---
 ## 🔧 Tools & Technologies
 
