@@ -1,3 +1,5 @@
+<img width="1248" height="398" alt="A_background_with_gradient_that_is_good_for_github_banner_wi" src="https://github.com/user-attachments/assets/b8c223d8-68ec-40c0-aa1d-0c848a14b3eb" />
+
 # 👋 Hi, I'm BorBari 
 
 💡Data Analyst committed to transforming raw datasets into meaningful insights that drive smarter decisions.    
@@ -39,3 +41,26 @@ Working with Azure services to build scalable, cloud‑based solutions for data 
 ### 🚀 About Me
 
 I specialise in turning complex datasets into clear, meaningful insights. From extraction and cleaning to analysis and visual storytelling, I work confidently across the entire data lifecycle using modern analytics tools.
+
+## Skills
+- Data Cleaning
+- Data Analysis
+- Data Interpretation
+- Power Query
+- Reporting
+- DAX
+- Python
+- Pandas
+- Numpy
+- Matplotlib
+
+## Featured Projects
+- [Excel](https://github.com/borbariAnalyst/Excel-Projects)
+- [SQL](https://github.com/borbariAnalyst/SQL-Projects)
+- [Power BI](https://github.com/borbariAnalyst/Power-BI-Projects)
+- [Tableau](https://github.com/borbariAnalyst/Tableau-Projects)
+- [Python](https://github.com/borbariAnalyst/Python-Pandas)
+- [Azure](https://github.com/borbariAnalyst/Cloud-Computing-and-Azure)
+
+## Connect with me
+- [LinkedIn](https://www.linkedin.com/in/borbari-gogo-abbey-263587423/)
