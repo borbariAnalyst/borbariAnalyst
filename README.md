@@ -61,7 +61,7 @@ I specialise in turning complex datasets into clear, meaningful insights. From e
 - [SQL](https://github.com/borbariAnalyst/SQL-Projects)
 - [Power BI](https://github.com/borbariAnalyst/Power-BI-Projects)
 - [Tableau](https://github.com/borbariAnalyst/Tableau-Projects)
-- [Python](https://github.com/borbariAnalyst/Python-Pandas)
+- [Python Pandas](https://github.com/borbariAnalyst/Python-Pandas)
 - [Azure](https://github.com/borbariAnalyst/Cloud-Computing-and-Azure)
 
 ## Connect with me
