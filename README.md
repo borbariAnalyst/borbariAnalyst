@@ -50,6 +50,10 @@ I specialise in turning complex datasets into clear, meaningful insights. From e
 - Presentation Preparation
 - Customer Segmentation Strategy
 - Stakeholder Awareness
+  
+## Certification
+[BCG - Introduction to Data for Decision Makers Job Simulation](https://github.com/borbariAnalyst/Certification)
+
 
 ## Featured Projects
 - [Excel Data Cleaning](https://github.com/borbariAnalyst/Data-Cleaning-Excel)
