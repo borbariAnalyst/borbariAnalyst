@@ -59,6 +59,7 @@ I specialise in turning complex datasets into clear, meaningful insights. From e
 ## Featured Projects
 - [Data Cleaning](https://github.com/borbariAnalyst/Data-Cleaning-Excel)
 - [Sales Performance](https://github.com/borbariAnalyst/Sales-Performance)
+- [Dynamic Excel Reports](https://github.com/borbariAnalyst/Dynamic-Reports)
 - [Excel](https://github.com/borbariAnalyst/Excel-Projects)
 - [SQL](https://github.com/borbariAnalyst/SQL-Projects)
 - [Power BI](https://github.com/borbariAnalyst/Power-BI-Projects)
